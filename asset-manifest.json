@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.8286826f.chunk.css",
+    "main.js": "/portfolio/static/js/main.97a4aded.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.97a4aded.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
+    "static/js/2.64fa2420.chunk.js": "/portfolio/static/js/2.64fa2420.chunk.js",
+    "static/js/2.64fa2420.chunk.js.map": "/portfolio/static/js/2.64fa2420.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.61bb70f56efdcd8c65e77fd842a4bb8b.js": "/portfolio/precache-manifest.61bb70f56efdcd8c65e77fd842a4bb8b.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.8286826f.chunk.css.map": "/portfolio/static/css/main.8286826f.chunk.css.map",
+    "static/js/2.64fa2420.chunk.js.LICENSE.txt": "/portfolio/static/js/2.64fa2420.chunk.js.LICENSE.txt",
+    "static/media/biopic.jpg": "/portfolio/static/media/biopic.bb412409.jpg",
+    "static/media/coding-quiz.JPG": "/portfolio/static/media/coding-quiz.fc0d4275.JPG",
+    "static/media/cyclepaths.JPG": "/portfolio/static/media/cyclepaths.040e7060.JPG",
+    "static/media/generator.JPG": "/portfolio/static/media/generator.ec64814f.JPG",
+    "static/media/github-icon.png": "/portfolio/static/media/github-icon.d31779db.png",
+    "static/media/linkedin-icon.png": "/portfolio/static/media/linkedin-icon.15fd5adb.png",
+    "static/media/planner.JPG": "/portfolio/static/media/planner.84c12beb.JPG",
+    "static/media/weather.JPG": "/portfolio/static/media/weather.1d5ad88b.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.209c2d7e.js",
+    "static/js/2.64fa2420.chunk.js",
+    "static/css/main.8286826f.chunk.css",
+    "static/js/main.97a4aded.chunk.js"
+  ]
+}
